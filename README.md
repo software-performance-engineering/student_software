@@ -1,6 +1,6 @@
-# CSE 491 Student Software
+# SPE Student Software
 
-Welcome to CSE 491! This document will direct you through how to get setup with a VM and all the software you will need to use during the class.
+Welcome to Software Performance Engineering (SPE)! This document will direct you through how to get setup with a VM and all the software you will need to use during the class.
 
 ## Part 1: VM Setup
 
